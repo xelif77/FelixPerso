@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi i'm Félix ! <br>I have 19 years old.<br>I'm studying computer science in the university of technology of Fontainebleau (UPEC).<br>I am looking for :<br>**web development internship**<br>**database administration**
+Hi i'm Félix ! <br>I am 19 years old.<br>I'm studying computer science in the university of technology of Fontainebleau (UPEC).<br>I am looking for :<br>**web development internship**<br>**database administration**
 
 
 ## 🌐 Socials:
